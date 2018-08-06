@@ -1,1 +1,2 @@
-print("Hello World!! This is a flask test")
+from pycode import app
+app.run(host='0.0.0.0',port=80,debug=True)
