@@ -98,7 +98,18 @@ Response data will be:
 
 DELETE the specified device
 
-**Response DELETE GET /device/<identifier>**
+**Response DELETE /device/<identifier>**
 
 Response code: *204 No content* (when device successfully deleted)
 Response code: *404 Not found* (if device is not found in the collection)
+
+### References
+
+[Original video](https://www.youtube.com/watch?v=4T5Gnrmzjak)
+[Markdown python library](https://python-markdown.github.io/sitemap.html)
+[Flask database access example](http://flask.pocoo.org/docs/0.12/appcontext/)
+[Docker compose](https://docs.docker.com/compose/gettingstarted/)
+[Docker Python container](https://hub.docker.com/_/python/)
+[Flask](http://flask.pocoo.org/)
+[Shelve](https://docs.python.org/3/library/shelve.html)
+[Flask RESTFul extension](http://flask-restful.readthedocs.io/en/latest/)
